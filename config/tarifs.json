@@ -1,0 +1,26 @@
+{
+  "devise": "XAF",
+  "tarifs": [
+    {
+      "code": "etudiant",
+      "libelle": "Tarif Étudiant",
+      "prix_par_heure": 150,
+      "heure_debut_nuit": null,
+      "heure_fin_nuit": null
+    },
+    {
+      "code": "normal",
+      "libelle": "Tarif Normal",
+      "prix_par_heure": 250,
+      "heure_debut_nuit": null,
+      "heure_fin_nuit": null
+    },
+    {
+      "code": "nuit",
+      "libelle": "Tarif Nuit (22h-06h)",
+      "prix_par_heure": 300,
+      "heure_debut_nuit": 22,
+      "heure_fin_nuit": 6
+    }
+  ]
+}
