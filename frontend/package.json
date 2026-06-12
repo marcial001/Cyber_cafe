@@ -1,0 +1,13 @@
+{
+  "name": "cybercafe-manager",
+  "version": "1.0.0",
+  "description": "Interface Electron - Gestion Cybercafé",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^33.2.1"
+  }
+}
